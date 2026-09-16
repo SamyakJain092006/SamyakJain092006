@@ -44,4 +44,4 @@ Rust-based project demonstrating ...
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/samyak-jain-041505377/)
-[LeetCode](https://www.linkedin.com/in/samyak-jain-041505377/)
+[LeetCode](https://leetcode.com/u/SamyakJain_2006/)

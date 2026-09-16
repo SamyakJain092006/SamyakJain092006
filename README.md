@@ -1,47 +1,29 @@
-
 # Hi, I'm Samyak 👋
 
-Computer Science student at NIT Warangal interested in systems,
-competitive programming, and open source.
+**CSE @ NIT Warangal | Competitive Programmer | Systems & Open Source**
 
-I primarily work with C++, Rust, and Python.
+I work primarily with **C++, Rust, and Python**, with a focus on
+systems programming, algorithms, and high-performance software.
 
-## What I'm focused on
+### Currently
 
-- Systems programming and Rust
-- Competitive programming and algorithms
-- Open source development
-- Developer tooling and high-performance software
+- 🦀 Exploring the Rust ecosystem
+- 🛠️ Contributing to large-scale open source projects
+- 🏆 Competitive Programming / ICPC
+- 🔭 Preparing for GSoC 2027
 
-## Current Focus
+### Tech
 
-🔭 Preparing for GSoC 2027  
-🦀 Exploring the Rust ecosystem  
-🛠️ Learning large-scale open source development  
-🏆 Competitive programming / ICPC
+**Languages:** C++ · Rust · Python · JavaScript · SQL  
+**Tools:** Git · Linux · GitHub · Docker
 
-## Tech Stack
+### Featured
 
-### Languages
+[JudgyGuy](YOUR_REPO_LINK) · Rust project  
+[Codeforces](https://codeforces.com/profile/SamyakJain092006) · Competitive Programming  
+[LeetCode](https://leetcode.com/u/SamyakJain_2006/) · Problem Solving
 
-C++ • Rust • Python • JavaScript • SQL
+### Connect
 
-### Tools
-
-Git • Linux • GitHub • Docker
-
-## Featured Projects
-
-### JudgyGuy
-Rust-based project demonstrating ...
-
-## Competitive Programming
-
-- Codeforces
-- LeetCode
-- ICPC
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/samyak-jain-041505377/)
-[LeetCode](https://leetcode.com/u/SamyakJain_2006/)
+[LinkedIn](https://www.linkedin.com/in/samyak-jain-041505377/) ·
+[GitHub](https://github.com/SamyakJain092006)
